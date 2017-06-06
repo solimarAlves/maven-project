@@ -218,6 +218,7 @@
     <connection>scm:git:git@github.com:solimarAlves/maven-project.git</connection>
     <developerConnection>scm:git:git@github.com:solimarAlves/maven-project.git</developerConnection>
     <url>http://github.com/solimarAlves/maven-project</url>
+    <tag></tag>
   </scm>
 
   <prerequisites>
