@@ -41,6 +41,7 @@
 
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
+        <version>2.5.2</version>
         <configuration>
           <autoVersionSubmodules>true</autoVersionSubmodules>
         </configuration>
@@ -209,7 +210,6 @@
   <scm>
     <connection>scm:git:git@github.com:solimarAlves/maven-project.git</connection>
     <developerConnection>scm:git:git@github.com:solimarAlves/maven-project.git</developerConnection>
-    <tag>HEAD</tag>
     <url>http://github.com/solimarAlves/maven-project</url>
   </scm>
 
